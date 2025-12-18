@@ -66,7 +66,7 @@ I am a passionate software developer with a strong interest in building clean, s
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 💼 LinkedIn: https://www.linkedin.com/in/kesava-jella
 - 📧 Email: kesavajella2006@gmail.com
 - 🌐 Portfolio: https://kesavajella.github.io/Portfolio
 
