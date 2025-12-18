@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jella Kesava Krishna Pavan. 👋
 
-🚀 **Software Developer | Problem Solver | Lifelong Learner**
+🚀 **Software Developer | Problem Solver | Java Full Stack Developer | Data Analytics**
 
 I am a passionate software developer with a strong interest in building clean, scalable, and user-focused applications. I enjoy solving real-world problems through code and continuously improving my skills by working on meaningful projects.
 
@@ -8,8 +8,8 @@ I am a passionate software developer with a strong interest in building clean, s
 
 ## 💼 Professional Summary
 
-- 🔹 Strong foundation in **[Your Main Tech Stack – e.g., JavaScript, Python, Java]**
-- 🔹 Experience building **[web apps / APIs / mobile apps / ML models]**
+- 🔹 Strong foundation in **Java Full Stack development**
+- 🔹 Experience building **Web Pages and Web Apps.**
 - 🔹 Focused on **clean code, performance, and maintainability**
 - 🔹 Comfortable working independently and in team environments
 
@@ -17,17 +17,17 @@ I am a passionate software developer with a strong interest in building clean, s
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`JavaScript` | `Python` | `Java` | `[Add more]`
+**Programming Languages:**  
+`c` | `Python` | `Java` | `HTML` | `CSS` | `JS`
 
 **Frameworks & Libraries:**  
-`React` | `Node.js` | `Express` | `Django` | `[Add more]`
+`Java SpringBoot`
 
 **Tools & Platforms:**  
-`Git` | `GitHub` | `Docker` | `Linux` | `VS Code`
+`Git` | `GitHub` | `VS Code` | `Android Studio` | `FireBase Console`
 
 **Databases:**  
-`MongoDB` | `PostgreSQL` | `MySQL`
+`SQL Lite` | `MySQL`
 
 ---
 
@@ -67,8 +67,8 @@ I am a passionate software developer with a strong interest in building clean, s
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [your@email.com]
-- 🌐 Portfolio: [Your Portfolio URL]
+- 📧 Email: kesavajella2006@gmail.com
+- 🌐 Portfolio: https://kesavajella.github.io/Portfolio
 
 ---
 
