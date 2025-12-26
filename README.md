@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kesava Jella</h1>
-<h3 align="center">Frontend Developer | HTML, CSS, JavaScript | Building Responsive Web Interfaces</h3>
+<h3 align="center">Java Full Stack Developer | Data Analytics | Building Responsive Web Interfaces</h3>
 
 <p align="center">
   <a href="https://kesavajella.github.io/Smart-Portfolio/" target="_blank">
@@ -26,14 +26,15 @@
 ---
 
 ## 🎓 Education
-**B.Tech – Aditya Engineering College** (2022 – Present)  
-Major: Computer Science / Software Development
+**B.Tech – Aditya Engineering College** (2023 – Present)  
+Major: Information Technology
 
-**Intermediate - Narayan Junior College
+**Intermediate - Narayan Junior College** (2021-2023)
 Major: MPC Stream
 
-**10th Class
+**10th Class - Narayana E.M High School** (2020-2021)
 Major: SSC
+
 ---
 
 ## 🛠️ Skills
@@ -71,6 +72,6 @@ Major: SSC
 ---
 
 ## 📫 Contact Me
-- Email: kesavajella@example.com  
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- Email: kesavajella2006@gmail.com  
+- LinkedIn: [linkedin.com/in/kesava-jella](https://linkedin.com/in/kesava-jella)  
 - Portfolio: [Visit Here](https://kesavajella.github.io/Smart-Portfolio/)
