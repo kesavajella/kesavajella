@@ -29,10 +29,10 @@
 **B.Tech – Aditya Engineering College** (2023 – Present)  
 Major: Information Technology
 
-**Intermediate - Narayan Junior College** (2021-2023)
+**Intermediate - Narayan Junior College** (2021-2023)  
 Major: MPC Stream
 
-**10th Class - Narayana E.M High School** (2020-2021)
+**10th Class - Narayana E.M High School** (2020-2021)  
 Major: SSC
 
 ---
