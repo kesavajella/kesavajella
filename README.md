@@ -1,75 +1,70 @@
-# Hi, I'm Jella Kesava Krishna Pavan. 👋
+<h1 align="center">Hi 👋, I'm Kesava Jella</h1>
+<h3 align="center">Frontend Developer | HTML, CSS, JavaScript | Building Responsive Web Interfaces</h3>
 
-🚀 **Software Developer | Problem Solver | Java Full Stack Developer | Data Analytics**
-
-I am a passionate software developer with a strong interest in building clean, scalable, and user-focused applications. I enjoy solving real-world problems through code and continuously improving my skills by working on meaningful projects.
-
----
-
-## 💼 Professional Summary
-
-- 🔹 Strong foundation in **Java Full Stack development**
-- 🔹 Experience building **Web Pages and Web Apps.**
-- 🔹 Focused on **clean code, performance, and maintainability**
-- 🔹 Comfortable working independently and in team environments
-
----
-
-## 🛠️ Tech Stack
-
-**Programming Languages:**  
-`c` | `Python` | `Java` | `HTML` | `CSS` | `JS`
-
-**Frameworks & Libraries:**  
-`Java SpringBoot`
-
-**Tools & Platforms:**  
-`Git` | `GitHub` | `VS Code` | `Android Studio` | `FireBase Console`
-
-**Databases:**  
-`SQL Lite` | `MySQL`
+<p align="center">
+  <a href="https://kesavajella.github.io/Smart-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=Google-Chrome" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/kesavajella" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://example.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=Adobe-Acrobat" alt="Resume">
+  </a>
+</p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 [Project Name](Project Link)
-**Short one-line description of the problem it solves**
-
-- Built using **[Tech Stack]**
-- Key feature or achievement
-- Impact or result (performance, users, learning outcome)
+## 💻 About Me
+- 🔹 Passionate Frontend Developer  
+- 🔹 Building responsive, user-friendly websites  
+- 🔹 Experienced with HTML, CSS, JavaScript, and Git  
 
 ---
 
-### 🔹 [Project Name](Project Link)
-**Short professional description**
-
-- Implemented **[specific functionality]**
-- Followed best practices like modular design and testing
+## 🎓 Education
+**B.Tech – Aditya Engineering College** (2022 – Present)  
+Major: Computer Science / Software Development
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **[Technology or Concept]**
-- System Design & Software Architecture
-- Writing better tests and documentation
+| Frontend | Tools & Others |
+|----------|----------------|
+| HTML5 | Git |
+| CSS3 | GitHub |
+| JavaScript | VS Code |
+| Bootstrap | Chrome DevTools |
+| Responsive Design | Figma (Basics) |
 
 ---
 
-## 🤝 Let’s Connect
+## 🚀 Projects
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kesava-jella
-- 📧 Email: kesavajella2006@gmail.com
-- 🌐 Portfolio: https://kesavajella.github.io/Smart-Portfolio
+### **Smart Portfolio**
+![Portfolio Screenshot](https://raw.githubusercontent.com/kesavajella/Smart-Portfolio/main/screenshot.png)
+**Tech Stack:** HTML, CSS, JavaScript  
+[Live Demo](https://kesavajella.github.io/Smart-Portfolio/) | [GitHub Repo](https://github.com/kesavajella/Smart-Portfolio)  
+
+*My Role:* Developed the complete frontend, implemented responsive layouts, and integrated client-side interactions.
 
 ---
 
-⭐ *I’m always open to discussing new opportunities, collaborations, and challenging problems.*
+### GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavajella&layout=compact&theme=radical" />
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=radical)
+
+---
+
+## 📫 Contact Me
+- Email: kesavajella@example.com  
+- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- Portfolio: [Visit Here](https://kesavajella.github.io/Smart-Portfolio/)
