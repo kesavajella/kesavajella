@@ -29,6 +29,11 @@
 **B.Tech – Aditya Engineering College** (2022 – Present)  
 Major: Computer Science / Software Development
 
+**Intermediate - Narayan Junior College
+Major: MPC Stream
+
+**10th Class
+Major: SSC
 ---
 
 ## 🛠️ Skills
@@ -54,14 +59,15 @@ Major: Computer Science / Software Development
 
 ---
 
-### GitHub Stats
+## 🚀 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavajella&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavajella&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=radical&hide_border=true" />
+</p>
 ---
 
 ## 📫 Contact Me
