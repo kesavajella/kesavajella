@@ -1,4 +1,6 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm  
+
+![Typing Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F0FF&width=600&lines=Y%20o%20u%20r%20%20N%20a%20m%20e)
 
 Welcome to my GitHub profile! I’m a **Java Full Stack & Machine Learning Developer**.  
 
@@ -11,13 +13,13 @@ Welcome to my GitHub profile! I’m a **Java Full Stack & Machine Learning Devel
 
 ## 🌟 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
 ## 📊 Languages Used (Pie Chart)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide=html,css&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6)
 
 ---
 
