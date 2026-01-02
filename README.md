@@ -1,77 +1,40 @@
-<h1 align="center">Hi 👋, I'm Kesava Jella</h1>
-<h3 align="center">Java Full Stack Developer | Data Analytics | Building Responsive Web Interfaces</h3>
+# Hi 👋, I'm [Your Name]
 
-<p align="center">
-  <a href="https://kesavajella.github.io/Smart-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=Google-Chrome" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/kesavajella" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://example.com/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=Adobe-Acrobat" alt="Resume">
-  </a>
-</p>
+Welcome to my GitHub profile! I’m a **Java Full Stack & Machine Learning Developer**.  
+
+- 🔭 I’m currently working on **full stack & AI projects**  
+- 🌱 I’m learning **Advanced ML, Cloud & Microservices**  
+- 💬 Ask me about **Java, Spring Boot, React, Python, ML**  
+- ⚡ Fun fact: I love **solving complex problems with code**  
 
 ---
 
-## 💻 About Me
-- 🔹 Passionate Frontend Developer  
-- 🔹 Building responsive, user-friendly websites  
-- 🔹 Experienced with HTML, CSS, JavaScript, and Git  
+## 🌟 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
-## 🎓 Education
-**B.Tech – Aditya Engineering College** (2023 – Present)  
-Major: Information Technology
+## 📊 Languages Used (Pie Chart)
 
-**Intermediate - Narayan Junior College** (2021-2023)  
-Major: MPC Stream
-
-**10th Class - Narayana E.M High School** (2020-2021)  
-Major: SSC
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide=html,css&langs_count=6)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-| Frontend | Tools & Others |
-|----------|----------------|
-| HTML5 | Git |
-| CSS3 | GitHub |
-| JavaScript | VS Code |
-| Bootstrap | Chrome DevTools |
-| Responsive Design | Figma (Basics) |
+| Frontend | Backend | Database | ML & Data Science |
+|----------|---------|---------|-----------------|
+| React.js, Angular, Vue.js | Java Spring Boot, REST API, Microservices | MySQL, PostgreSQL, MongoDB | Python (scikit-learn, TensorFlow, PyTorch), XGBoost, Pandas |
 
 ---
 
-## 🚀 Projects
+## 📫 Connect with Me
 
-### **Smart Portfolio**
-![Portfolio Screenshot](https://raw.githubusercontent.com/kesavajella/Smart-Portfolio/main/screenshot.png)
-**Tech Stack:** HTML, CSS, JavaScript  
-[Live Demo](https://kesavajella.github.io/Smart-Portfolio/) | [GitHub Repo](https://github.com/kesavajella/Smart-Portfolio)  
-
-*My Role:* Developed the complete frontend, implemented responsive layouts, and integrated client-side interactions.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/YOUR_TWITTER)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
-## 🚀 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesavajella&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=radical&hide_border=true" />
-</p>
----
-
-## 📫 Contact Me
-- Email: kesavajella2006@gmail.com  
-- LinkedIn: [linkedin.com/in/kesava-jella](https://linkedin.com/in/kesava-jella)  
-- Portfolio: [Visit Here](https://kesavajella.github.io/Smart-Portfolio/)
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
