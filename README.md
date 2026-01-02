@@ -53,19 +53,19 @@ An automated tool for [task]. High performance and scalable architecture.
 
 ## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,py,django,fastapi,mysql,mongodb,postgres,git,github,docker,aws,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,py,Springboot,fastapi,mysql,mongodb,postgres,git,github,docker,aws,vscode,postman,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[kesavajella]&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" alt="Streak Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[kesavajella]&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[kesavajella]&theme=tokyonight&hide_border=true" alt="Streak Card" width="48%" />
 </p>
 
 ---
