@@ -1,46 +1,81 @@
-<!-- GitHub Profile README -->
-
-<!-- Typing effect next to icon -->
-<p align="left">
-  <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png" width="28"/> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F0FF&width=500&lines=I'm%20Your%20Name" alt="Typing Effect">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=[,,,,,,Jella Kesava Krishna Pavan]" alt="Typing Name" />
 </p>
 
-Welcome to my GitHub profile! I’m a **Java Full Stack & Machine Learning Developer**.  
-
-- 🔭 Currently working on **Full Stack & ML projects**  
-- 🌱 Learning **Advanced ML, Cloud & Microservices**  
-- 💬 Ask me about **Java, Spring Boot, React, Python, ML**  
-- ⚡ Fun fact: I love **solving complex problems with code**  
-
----
-
-## 🌟 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false)
+## 🚀 About Me
+- 🎓 **Student** at Aditya Engineering College
+- 💡 Passionate about building impactful software and exploring new technologies.
+- 🌱 Currently learning **[e.g., Cloud Computing or Advanced AI]**.
+- 💬 Ask me about **Web Apps or Open Source**.
 
 ---
 
-## 📊 Languages Used (Pie Chart)
+## 🎓 Education
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=6)
+- **🎓 B.Tech in Information Technology** Aditya Engineering College, Surampalem (2023 – 2027)  
+  **CGPA: 9.02**
 
----
+- **🎓 Intermediate (MPC Stream)** Narayana Junior College, Danavaipeta, Rajamundry (2021 – 2023)  
+  **Percentage: 94.3%**
 
-## 🛠️ Tech Stack
-
-| Frontend | Backend | Database | ML & Data Science |
-|----------|---------|---------|-----------------|
-| React.js, Angular, Vue.js | Java Spring Boot, REST API, Microservices | MySQL, PostgreSQL, MongoDB | Python (scikit-learn, TensorFlow, PyTorch), XGBoost, Pandas |
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/YOUR_TWITTER)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+- **🎓 SSC (10th Class)** Narayana E.M High School, Kovvur (2020 – 2021)  
+  **Percentage: 100%**
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+## 🛠️ Tools & Technologies
+> **Frontend:** HTML5, CSS3, JavaScript  
+> **Backend:** Java SpringBoot  
+> **Frameworks:** Bootstrap, Material UI, Redux  
+> **Databases:** MySQL, SQL lite  
+> **DevOps & Tools:** VS Code, Android Studio, Git
+
+---
+
+## 📂 Projects
+### 1. [Covid Vaccination App](https://github.com/[YOUR-USERNAME]/[REPO-NAME])
+A full-stack application that solves [specific problem]. Features real-time updates and secure authentication.
+**Built With:** `React` `Node.js` `MongoDB`
+
+### 2. [Project Name Two](https://github.com/[YOUR-USERNAME]/[REPO-NAME])
+An automated tool for [task]. High performance and scalable architecture.
+**Built With:** `Python` `FastAPI` `PostgreSQL`
+
+---
+
+## 🎯 Areas of Interest
+- 🤖 **Artificial Intelligence & Machine Learning**
+- ☁️ **Cloud Computing (AWS, GCP)**
+- 💻 **Web Development (Java Full Stack)**
+- 👁️ **Computer Vision & Data Analytics**
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,py,django,fastapi,mysql,mongodb,postgres,git,github,docker,aws,vscode,postman,linux" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight&hide_border=true" alt="Streak Card" width="48%" />
+</p>
+
+---
+
+## 👤 Personal Information & Links
+- 📍 **Name:** Jella Kesava Krishna Pavan
+- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+-    **Phone Number:** [+91-XXXXXXXXXX](tel:+91XXXXXXXXXX)
+- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- 💼 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+---
+</p>
