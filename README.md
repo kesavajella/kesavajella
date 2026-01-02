@@ -1,11 +1,15 @@
-# Hi 👋, I'm  
+<!-- GitHub Profile README -->
 
-![Typing Name](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F0FF&width=600&lines=Y%20o%20u%20r%20%20N%20a%20m%20e)
+<!-- Typing effect next to icon -->
+<p align="left">
+  <img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png" width="28"/> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F0FF&width=500&lines=I'm%20Your%20Name" alt="Typing Effect">
+</p>
 
 Welcome to my GitHub profile! I’m a **Java Full Stack & Machine Learning Developer**.  
 
-- 🔭 I’m currently working on **full stack & AI projects**  
-- 🌱 I’m learning **Advanced ML, Cloud & Microservices**  
+- 🔭 Currently working on **Full Stack & ML projects**  
+- 🌱 Learning **Advanced ML, Cloud & Microservices**  
 - 💬 Ask me about **Java, Spring Boot, React, Python, ML**  
 - ⚡ Fun fact: I love **solving complex problems with code**  
 
@@ -13,13 +17,13 @@ Welcome to my GitHub profile! I’m a **Java Full Stack & Machine Learning Devel
 
 ## 🌟 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false)
 
 ---
 
 ## 📊 Languages Used (Pie Chart)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=6)
 
 ---
 
