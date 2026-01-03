@@ -52,13 +52,16 @@ An automated tool for [task]. High performance and scalable architecture.
 - 👁️ **Computer Vision & Data Analytics**
 
 ---
+
 ## 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,py,nodejs,express,mysql,mongodb,firebase,git,github,vscode,androidstudio,linux,postman,vercel,figma" />
   </a>
 </p>
+
 -- 
+
 ## 📊 GitHub Statistics
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kesavajella&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" />
@@ -69,6 +72,7 @@ An automated tool for [task]. High performance and scalable architecture.
   
   <img src="https://streak-stats.demolab.com?user=kesavajella&theme=high-contrast&hide_border=true&background=0D1117" alt="Streak Card" width="48%" />
 </p>
+
 ---
 
 ## 👤 Personal Information & Links
