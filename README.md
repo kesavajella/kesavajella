@@ -23,11 +23,11 @@
 ---
 
 ## 🛠️ Tools & Technologies
-> **Frontend:** HTML5, CSS3, JavaScript  
-> **Backend:** Java SpringBoot  
-> **Frameworks:** Bootstrap, Material UI, Redux  
-> **Databases:** MySQL, SQL lite  
-> **DevOps & Tools:** VS Code, Android Studio, Git
+ **Frontend:** HTML5, CSS3, JavaScript  
+ **Backend:** Java SpringBoot  
+ **Frameworks:** Bootstrap, Material UI, Redux  
+ **Databases:** MySQL, SQL lite  
+ **DevOps & Tools:** VS Code, Android Studio, Git
 
 ---
 
@@ -56,17 +56,15 @@ An automated tool for [task]. High performance and scalable architecture.
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=[kesavajella]&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kesavajella&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[kesavajella]&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[kesavajella]&theme=tokyonight&hide_border=true" alt="Streak Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kesavajella&theme=tokyonight&hide_border=true" alt="Streak Card" width="48%" />
 </p>
-
 ---
 
 ## 👤 Personal Information & Links
