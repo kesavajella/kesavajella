@@ -73,10 +73,10 @@ An automated tool for [task]. High performance and scalable architecture.
 
 ## 👤 Personal Information & Links
 - 📍 **Name:** Jella Kesava Krishna Pavan
-- 📧 **Email:** kesavajella2006@gmail.com(mailto:kesavajella2006@gmail.com)
--    **Phone Number:** +91-99499900254(tel:+919949900254)
-- 🌐 **Portfolio:** MyPortfolio(https://kesavajella.github.io/Smart-Portfolio)
-- 💼 **LinkedIn:** linkedin(https://linkedin.com/in/kesavajella)
+- 📧 **Email:** [kesavajella2006@gmail.com](mailto:kesavajella2006@gmail.com)
+-    **Phone Number:** [+91-99499900254](tel:+919949900254)
+- 🌐 **Portfolio:** [MyPortfolio](https://kesavajella.github.io/Smart-Portfolio)
+- 💼 **LinkedIn:** [My_linkedin](https://linkedin.com/in/kesavajella)
 
 ---
 </p>
