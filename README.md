@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=[,,,,,,Jella Kesava Krishna Pavan]" alt="Typing Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Jella+Kesava+Krishna+Pavan" alt="Jella Kesava Krishna Pavan" />
 </p>
-
 ## 🚀 About Me
 - 🎓 **Student** at Aditya Engineering College
 - 💡 Passionate about building impactful software and exploring new technologies.
