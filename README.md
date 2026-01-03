@@ -61,6 +61,7 @@ An automated tool for [task]. High performance and scalable architecture.
 </p>
 
 -- 
+
 ## 📊 GitHub Statistics
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kesavajella&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" />
@@ -71,6 +72,7 @@ An automated tool for [task]. High performance and scalable architecture.
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=high-contrast&hide_border=true&background=0D1117" alt="Streak Card" width="48%" />
 </p>
+
 ---
 
 ## 👤 Personal Information & Links
