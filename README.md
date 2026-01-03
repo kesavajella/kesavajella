@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=,,,,,Jella+Kesava+Krishna+Pavan" alt="Jella Kesava Krishna Pavan" />
 </p>
 
@@ -59,7 +59,6 @@ An automated tool for [task]. High performance and scalable architecture.
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,py,nodejs,express,mysql,mongodb,firebase,git,github,vscode,androidstudio,linux,postman,vercel,figma" />
   </a>
 </p>
-
 -- 
 
 ## 📊 GitHub Statistics
