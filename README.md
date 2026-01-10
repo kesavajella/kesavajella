@@ -28,7 +28,7 @@
 ## 🛠️ Tools & Technologies
  **Frontend:** HTML5, CSS3, JavaScript  
  **Backend:** Java SpringBoot  
- **Frameworks:** Bootstrap, Material UI, Redux  
+ **Frameworks:** Bootstrap  
  **Databases:** MySQL, SQL lite  
  **DevOps & Tools:** VS Code, Android Studio, Git
 
