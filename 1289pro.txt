@@ -1,0 +1,22 @@
+village-ai-doctor/
+├── src/
+│   ├── main/
+│   │   ├── java/com/aidoctor/         <-- BACKEND (Java)
+│   │   │   ├── controller/            // API Endpoints
+│   │   │   ├── service/               // AI & Medical Logic
+│   │   │   ├── model/                 // Data Entities
+│   │   │   └── VillageDoctorApp.java  // Entry Point
+│   │   │
+│   │   └── resources/                 <-- ASSETS & FRONTEND
+│   │       ├── static/                // YOUR WEBSITE FILES
+│   │       │   ├── css/               // styles.css
+│   │       │   ├── js/                // main.js (Speech handling)
+│   │       │   ├── images/            // Icons & Logos
+│   │       │   └── index.html         // Main Landing Page
+│   │       │
+│   │       ├── templates/             // (Optional) Thymeleaf pages
+│   │       └── application.properties // API Keys & DB Config
+│   │
+│   └── test/                          <-- Unit Tests
+├── pom.xml                            <-- Maven Dependencies
+└── README.md
