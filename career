@@ -1,0 +1,51 @@
+To help you learn the Java Collections Framework, I have selected some of the best-rated and most comprehensive video tutorials in both Telugu and English.
+
+### **Telugu Tutorials (తెలుగులో)**
+
+These videos explain complex concepts like List, Set, Map, and the Hierarchy in easy-to-understand Telugu.
+
+* **Collections Framework in Java | DSA | H Y R Tutorials**
+* **Content:** This is a comprehensive 7-hour masterclass covering the entire hierarchy, from ArrayList and Vector to Maps, Queues, and Iterators.
+* **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=JO3wG50A_1o)
+
+
+* **Complete Collections Framework in Telugu | Kotha Abhishek**
+* **Content:** A very popular full-course video that breaks down the framework for beginners.
+* **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=AhCTeyKDKbM)
+
+
+* **Java Collections Introduction | Vamsi Bhavani**
+* **Content:** Part of a 30-day Java challenge, this video explains the difference between arrays and collections clearly.
+* **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=q9Rj-jQe0-0)
+
+
+
+---
+
+### **English Tutorials**
+
+These tutorials are highly recommended for their depth, visual aids, and practical coding examples.
+
+* **Master Java Collections Framework in 3 Hours | Full Course**
+* **Content:** A deep dive into the framework with practical code snippets, including modern Java features (Java 9+).
+* **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=VE_AAUxTUCY)
+
+
+* **Java Collections Framework | Full Course by Java Guides**
+* **Content:** A professional-level course that covers the characteristics, performance considerations, and best practices for each collection type.
+* **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=GdAon80-0KA)
+
+
+* **Java Collections Explained | SimplyLearn**
+* **Content:** A great overview of the benefits of using collections, such as code reusability and increased programming speed.
+* **Link:** [Watch on YouTube](https://www.youtube.com/watch?v=yiB_AFCVUH0)
+
+
+
+### **Key Topics You Will Learn:**
+
+1. **List Interface:** `ArrayList`, `LinkedList`, `Vector`, `Stack`.
+2. **Set Interface:** `HashSet`, `LinkedHashSet`, `TreeSet`.
+3. **Queue Interface:** `PriorityQueue`, `Deque`.
+4. **Map Interface:** `HashMap`, `LinkedHashMap`, `TreeMap`.
+5. **Cursors:** `Iterator`, `ListIterator`, and `Enumeration`.
