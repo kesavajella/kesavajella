@@ -15,7 +15,7 @@
 ## 🎓 Education
 
 - **🎓 B.Tech in Information Technology** Aditya Engineering College, Surampalem (2023 – 2027)  
-  **CGPA: 9.02**
+  **CGPA: 8.80**
 
 - **🎓 Intermediate (MPC Stream)** Narayana Junior College, Danavaipeta, Rajamundry (2021 – 2023)  
   **Percentage: 94.3%**
@@ -30,16 +30,16 @@
  **Backend:** Java SpringBoot  
  **Frameworks:** Bootstrap  
  **Databases:** MySQL, SQL lite  
- **DevOps & Tools:** VS Code, Android Studio, Git
+ **DevOps & Tools:** VS Code, Android Studio, Git, Github, Render, Docker
 
 ---
 
 ## 📂 Projects
-### 1. [Covid Vaccination App](https://github.com/[YOUR-USERNAME]/[REPO-NAME])
+### 1. [Covid Vaccination App](https://github.com/kesavajella/Android_Project)
 A full-stack application that solves [specific problem]. Features real-time updates and secure authentication.
 **Built With:** `React` `Node.js` `MongoDB`
 
-### 2. [Project Name Two](https://github.com/[YOUR-USERNAME]/[REPO-NAME])
+### 2. [Restora-Smart Canteen System](https://github.com/kesavajella/Canteen)
 An automated tool for [task]. High performance and scalable architecture.
 **Built With:** `Python` `FastAPI` `PostgreSQL`
 
@@ -56,7 +56,7 @@ An automated tool for [task]. High performance and scalable architecture.
 ## 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,py,nodejs,express,mysql,mongodb,firebase,git,github,vscode,androidstudio,linux,postman,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,py,nodejs,express,mysql,firebase,git,github,vscode,androidstudio,linux,postman,vercel,figma,render,docker,mysql" />
   </a>
 </p>
 
