@@ -28,9 +28,9 @@
 ## 🛠️ Tools & Technologies
  **Frontend:** HTML5, CSS3, JavaScript  
  **Backend:** Java SpringBoot  
- **Frameworks:** Bootstrap  
+ **Frameworks:** Bootstrap, React.js  
  **Databases:** MySQL, SQL lite  
- **DevOps & Tools:** VS Code, Android Studio, Git, Github, Render, Docker
+ **DevOps & Tools:** VS Code, Android Studio, Git, Github, Render, Docker, Firebase, Claudinary, Aiven
 
 ---
 
@@ -63,14 +63,12 @@ An automated tool for [task]. High performance and scalable architecture.
 --- 
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kesavajella&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" />
-</p>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kesavajella&theme=react-dark&area=true&hide_border=true&bg_color=0D1117)](https://github.com/kesavajella)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Stats Card" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=high-contrast&hide_border=true&background=0D1117" alt="Streak Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Stats Card" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=high-contrast&hide_border=true&background=0D1117" alt="Streak Card" width="49%" />
 </p>
 
 ---
