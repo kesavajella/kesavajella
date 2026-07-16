@@ -68,7 +68,7 @@ An automated tool for [task]. High performance and scalable architecture.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kesavajella&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Stats Card" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesavajella&theme=high-contrast&hide_border=true&background=0D1117" alt="Streak Card" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kesavajella&theme=high-contrast&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true&background=0D1117" alt="Streak Card" width="49%" />
 </p>
 
 ---
