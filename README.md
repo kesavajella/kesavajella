@@ -36,12 +36,12 @@
 
 ## 📂 Projects
 ### 1. [Covid Vaccination App](https://github.com/kesavajella/Android_Project)
-A full-stack application that solves [specific problem]. Features real-time updates and secure authentication.
-**Built With:** `React` `Node.js` `MongoDB`
+A COVID-19 Vaccination App is a digital platform (web or mobile) designed to manage and streamline the vaccination process for citizens and healthcare providers.
+**Built With:** `XML` `Java` `Android` `SQLlite`
 
 ### 2. [Restora-Smart Canteen System](https://github.com/kesavajella/Canteen)
 An automated tool for [task]. High performance and scalable architecture.
-**Built With:** `Python` `FastAPI` `PostgreSQL`
+**Built With:** `Html` `CSS` `React js` `Render` `Java SpringBoot` `MySQL`
 
 ---
 
